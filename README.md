@@ -26,6 +26,8 @@ Each stitch is a series of lines with spaces between them. A stitch can either s
 ![example image](./res/example.png)
 
 # Usage:
+!IMPORTANT!: If you are using a Windows computer, type "py" instead of "python3".
+If you are still experiencing an issue with running the file, try completely removing the first line of `hitomezashi_master.py`.
 Info about how to use the program can be found by running the following: `python3 hitomezashi_master.py help`
 
 # Sample inputs (that you should definitely try):
